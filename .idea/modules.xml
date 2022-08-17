@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/auth-jwt-mongo-master.iml" filepath="$PROJECT_DIR$/.idea/auth-jwt-mongo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crud-mongo.iml" filepath="$PROJECT_DIR$/.idea/crud-mongo.iml" />
     </modules>
   </component>
 </project>
