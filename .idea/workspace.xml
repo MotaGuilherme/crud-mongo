@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="825335b5-771b-4e28-aab7-b331bd0e1259" name="Changes" comment="criacao rotas da lib">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/errors/notfoundError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/bookModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repositories/bookRepository.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/bookRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/boookService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/crud-mongo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crud-mongo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/mongoConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/mongoConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/routes.js" afterDir="false" />
-    </list>
+    <list default="true" id="825335b5-771b-4e28-aab7-b331bd0e1259" name="Changes" comment="pareamento" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +37,7 @@
       <updated>1660701465745</updated>
       <workItem from="1660701467086" duration="13000" />
       <workItem from="1660701509167" duration="5770000" />
-      <workItem from="1660710747197" duration="1029000" />
+      <workItem from="1660710747197" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="refatoracao auth">
       <created>1660711633330</created>
@@ -65,7 +46,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660711633330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="criacao rotas da lib">
+      <created>1660711794105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660711794105</updated>
+    </task>
+    <task id="LOCAL-00003" summary="criacao dokcer">
+      <created>1660711807537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660711807537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pareamento">
+      <created>1660711875924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660711875924</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +87,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refatoracao auth" />
     <MESSAGE value="criacao rotas da lib" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao rotas da lib" />
+    <MESSAGE value="criacao dokcer" />
+    <MESSAGE value="pareamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="pareamento" />
   </component>
 </project>
